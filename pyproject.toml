@@ -15,6 +15,7 @@ h5py = "^3.6.0"
 mat4py = "^0.5.0"
 Pillow = "^9.1.0"
 tifffile = "^2022.4.28"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
